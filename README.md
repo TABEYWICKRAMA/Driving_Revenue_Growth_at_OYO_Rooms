@@ -5,6 +5,6 @@ For a deeper dive into how I tackled this project
 – check out my LinkedIn profile. 
 I've shared the details in a public post under the 'Posts' section.
 
-![dashboard1](https://github.com/TABEYWICKRAMA/Driving_Revenue_Growth_at_OYO_Rooms/assets/110693737/48dcd0ce-4045-438c-9083-cea13880531e)
+![overall](https://github.com/TABEYWICKRAMA/Driving_Revenue_Growth_at_OYO_Rooms/assets/110693737/f8c17f72-8ff0-42df-a360-689e2a945cfb)
 
-![dashboard2](https://github.com/TABEYWICKRAMA/Driving_Revenue_Growth_at_OYO_Rooms/assets/110693737/6acb0734-29e0-4482-8921-e6471bbc7d53)
+![tooltip](https://github.com/TABEYWICKRAMA/Driving_Revenue_Growth_at_OYO_Rooms/assets/110693737/e21cca61-e28a-49e4-80c4-2799c2215267)
